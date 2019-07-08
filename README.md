@@ -6,3 +6,6 @@ http://realtcg.com/
 
 # react-china
 http://react-china.org/t/react-hooks/31023
+
+# redux
+http://cn.redux.js.org/docs/basics/UsageWithReact.html
