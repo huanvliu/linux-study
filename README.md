@@ -20,3 +20,6 @@ xian lj....huan...
 ### nodejs与区块链
 - http://bitcoin-on-nodejs.ebookchain.org/4-%E5%BC%80%E5%8F%91%E5%AE%9E%E8%B7%B5/0-%E5%8A%A0%E5%AF%86%E4%B8%8E%E8%A7%A3%E5%AF%86/3-%E4%B8%89%E5%BC%A0%E5%9B%BE%E8%AE%A9%E4%BD%A0%E5%85%A8%E9%9D%A2%E6%8E%8C%E6%8F%A1%E5%8A%A0%E5%AF%86%E8%A7%A3%E5%AF%86%E6%8A%80%E6%9C%AF.html
 - png： http://bitcoin-on-nodejs.ebookchain.org/styles/images/naotu/%E5%8A%A0%E5%AF%86%E8%A7%A3%E5%AF%86.png
+
+### linux 阿里云硬盘格式化，分区，文件系统挂载
+- https://help.aliyun.com/document_detail/25426.html?spm=a2c4g.11186623.2.23.6e0b7d56VVagOJ#concept-jl1-qzd-wdb
