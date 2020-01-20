@@ -9,3 +9,9 @@ docker run --restart unless-stopped --log-driver json-file --log-opt max-size=10
 docker run -d --hostname rabbit --name rabbit -p 8080:15672 -p 5672:5672 -e RABBITMQ_DEFAULT_USER=admin 
 -e RABBITMQ_DEFAULT_PASS=fy136649111 rabbitmq:3-management
 ```
+
+### 启动Mongo
+```
+docker run --restart unless-stopped --log-driver json-file --log-opt max-size=10m --log-opt max-file=3  -p 27017:27017 -e MONGO_INITDB_ROOT_USERNAME=admin -e MONGO_INITDB_ROOT_PASSWORD=admin -d --name mongo mongo
+
+```
