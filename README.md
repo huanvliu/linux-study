@@ -30,3 +30,7 @@ xian lj....huan...
 ### 小说集
 一生，爱丽丝梦游仙境，心爱的树，这世界，我只喜欢你（爱情、旅途是一个人的地老天荒，双手捞起如烟往事，阳光穿透岁月的帘帷，散尽一生的薄凉）
 你是我梦里的得到与失去，我只是难过不能陪你一起老，从此余笙没有你，致最美的盛夏，趁一切还来得及
+
+### docker nginx 启动和配置
+- 启动：docker run --rm --name nginx-test -p 8089:80  -v /root/liujie/nginx/nginx.conf:/etc/nginx/nginx.conf  -v /root/liujie/nginx/cert:/etc/nginx/cert nginx
+- 基础配置文件见文件nginx.conf
